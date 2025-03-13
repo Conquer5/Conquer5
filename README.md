@@ -42,4 +42,5 @@
 <br clear="both">
 
 <!-- Misalnya, animasi tambahan khusus untuk Data Science -->
-<img src="https://raw.githubusercontent.com/Conquer5/snake.yml/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Conquer5/Conquer5/output/snake.svg" alt="Snake animation" />
+
