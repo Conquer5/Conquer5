@@ -377,14 +377,14 @@ Teknologi pada bagian ini masih dalam tahap pembelajaran dan eksplorasi, bukan b
   />
 </a>
 
-<a href="https://www.linkedin.com/in/USERNAME-LINKEDIN/">
+<a href="https://www.linkedin.com/in/rafly-anugrah-syahputra/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-<a href="mailto:EMAIL-ANDA@gmail.com">
+<a href="mailto:raflyanugrahsyahputra.1@gmail.com">
   <img
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Gmail"
