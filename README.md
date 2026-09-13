@@ -1,17 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2575FC,100:6A11CB&height=220&section=header&text=Rafly%20Anugrah%20Syahputra&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineering%20%26%20Agentic%20Systems&descAlignY=57&descSize=18" alt="Rafly Anugrah Syahputra" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+Practical+AI+%26+Agentic+Systems+%F0%9F%A4%96;Working+with+Hermes+Agent+%26+LangChain;Exploring+LLM%2C+RAG%2C+and+AI+Agents;Building+with+Python+%26+Node.js;Turning+Data+into+Intelligent+Solutions" alt="Typing animation" />
-</a>
+<h1>Hi 👋, I'm Rafly Anugrah Syahputra</h1>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Conquer5&label=PROFILE%20VIEWS&color=2575FC&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Conquer5?label=FOLLOWERS&style=flat-square&color=6A11CB" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-00ADEF?style=flat-square" alt="AI Engineering focus" />
+  <strong>Data Scientist · AI Engineer · Agentic AI Builder</strong>
+</p>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+Practical+AI+%26+Agentic+Systems;Working+with+Hermes+Agent+%26+LangChain;Building+with+Python+%26+Node.js;Exploring+LLM%2C+RAG%2C+and+AI+Agents"
+    alt="Typing SVG"
+  />
+</a>
+
+<br><br>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Conquer5&label=PROFILE%20VIEWS&color=2575FC&style=flat-square" alt="Profile Views" />
+  <img width="4" />
+  <img src="https://img.shields.io/github/followers/Conquer5?label=FOLLOWERS&style=flat-square&color=6A11CB" alt="Followers" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-00ADEF?style=flat-square" alt="AI Engineering" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/AGENTIC%20AI-BUILDING-7C3AED?style=flat-square" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/BASED%20IN-INDONESIA-EA4335?style=flat-square" alt="Based in Indonesia" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/BASED%20IN-INDONESIA-EA4335?style=flat-square" alt="Indonesia" />
 </p>
 
 </div>
@@ -256,17 +269,15 @@ Automasi proses dan pengembangan aplikasi menggunakan **Python, Node.js, Streaml
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Conquer5">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Conquer5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rafly's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Conquer5">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conquer5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
+<img
+  width="96%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Conquer5&theme=tokyonight&animation=load"
+  alt="GitHub Profile Details"
+/>
 
 </div>
 
@@ -274,9 +285,29 @@ Automasi proses dan pengembangan aplikasi menggunakan **Python, Node.js, Streaml
 
 <div align="center">
 
-<a href="https://github.com/Conquer5">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Conquer5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Conquer5&theme=tokyonight&animation=fade"
+  alt="GitHub Stats"
+/>
+
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Conquer5&theme=tokyonight&animation=fade"
+  alt="Most Used Languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Conquer5&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
