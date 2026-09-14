@@ -273,45 +273,42 @@ Automasi proses dan pengembangan aplikasi menggunakan **Python, Node.js, Streaml
 
 <div align="center">
 
-<img
-  width="96%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Conquer5&theme=tokyonight&animation=load"
-  alt="GitHub Profile Details"
-/>
+  <!-- General Stats & Most Used Languages -->
+  <a href="https://github.com/Conquer5">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Conquer5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+      alt="Conquer5 GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Conquer5">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conquer5&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/Conquer5">
+    <img
+      src="https://streak-stats.demolab.com?user=Conquer5&theme=tokyonight&hide_border=true&mode=weekly"
+      alt="GitHub Streak"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- Interactive Activity Graph -->
+  <a href="https://github.com/Conquer5">
+    <img
+      width="96%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Conquer5&theme=tokyo-night&hide_border=true&area=true"
+      alt="Activity Graph"
+    />
+  </a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Conquer5&theme=tokyonight&animation=fade"
-  alt="GitHub Stats"
-/>
-
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Conquer5&theme=tokyonight&animation=fade"
-  alt="Most Used Languages"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=Conquer5&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
