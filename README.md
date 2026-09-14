@@ -273,38 +273,21 @@ Automasi proses dan pengembangan aplikasi menggunakan **Python, Node.js, Streaml
 
 <div align="center">
 
-  <!-- General Stats & Most Used Languages -->
-  <a href="https://github.com/Conquer5">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Conquer5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-      alt="Conquer5 GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/Conquer5">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conquer5&layout=compact&theme=tokyonight&hide_border=true"
-      alt="Top Languages"
-    />
-  </a>
-
-  <br><br>
-
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/Conquer5">
     <img
-      src="https://streak-stats.demolab.com?user=Conquer5&theme=tokyonight&hide_border=true&mode=weekly"
+      src="https://streak-stats.demolab.com?user=Conquer5&theme=tokyonight&hide_border=true"
       alt="GitHub Streak"
     />
   </a>
 
   <br><br>
 
-  <!-- Interactive Activity Graph -->
+  <!-- GitHub Profile Trophy -->
   <a href="https://github.com/Conquer5">
     <img
-      width="96%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Conquer5&theme=tokyo-night&hide_border=true&area=true"
-      alt="Activity Graph"
+      src="https://github-profile-trophy.vercel.app/?username=Conquer5&theme=tokyonight&no-frame=true&margin_w=4"
+      alt="GitHub Trophies"
     />
   </a>
 
