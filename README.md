@@ -273,26 +273,22 @@ Automasi proses dan pengembangan aplikasi menggunakan **Python, Node.js, Streaml
 
 <div align="center">
 
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Conquer5">
-    <img
-      src="https://streak-stats.demolab.com?user=Conquer5&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
+  <!-- Ringkasan Akun -->
+  <img src="https://img.shields.io/github/followers/Conquer5?label=Followers&style=for-the-badge&color=2575FC&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Active%20Builder-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status" />
 
   <br><br>
 
-  <!-- GitHub Profile Trophy -->
+  <!-- Heatmap Kontribusi (Anti Rate-Limit) -->
   <a href="https://github.com/Conquer5">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=Conquer5&theme=tokyonight&no-frame=true&margin_w=4"
-      alt="GitHub Trophies"
+      width="98%"
+      src="https://ghchart.rshah.org/7C3AED/Conquer5"
+      alt="Grafik Kontribusi Conquer5"
     />
   </a>
 
 </div>
-
 # 🐍 Contribution Snake
 
 <div align="center">
